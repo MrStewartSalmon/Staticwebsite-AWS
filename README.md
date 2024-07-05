@@ -50,5 +50,3 @@ Confirm by selecting create records.
 You can now review my static website at:
 http://cloudcomputingdemo.com
 
-
-http://cloudcomputingdemo.com/
