@@ -10,8 +10,8 @@ Step#1
 
 Open the AWS management console and select Route 53 service from the search bar.
 
-Select registered domains and type the domain name you would like to purchase, and enter your address details. 
-Now accept the terms and conditions and complete the order.
+Select registered domains, type the domain name you want to purchase, and enter your address details. 
+Now you can accept the terms and conditions and complete the order.
 
 Step#2
 
