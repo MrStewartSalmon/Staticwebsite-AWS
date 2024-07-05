@@ -32,7 +32,8 @@ Type in the name of your uploaded index document and save the changes
 
 Now go back to the permissions tab attach a bucket policy by selecting edit, and save changes.
  
-The sample website is now publicly accessible for viewers, through the Amazon provider URL. Now you must read the words your purchase domain to your S3 bucket.
+The sample website is now publicly accessible for viewers, through the Amazon provider URL. 
+Now you must route your purchased domain to your S3 bucket.
 
 
 Step #3
