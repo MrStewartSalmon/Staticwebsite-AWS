@@ -38,7 +38,7 @@ Now you must route your purchased domain to your S3 bucket.
 
 Step #3
 
-Go back to route 53 select hosted zones and select domain. And create a record to ensure Bucky is connected to the route 53 domain name. This can be done by selecting create record and select simple routing policy and select next.
+Go back to route 53 select hosted zones and select domain. And create a record to ensure bucket is connected to the route 53 domain name. This can be done by selecting create record and select simple routing policy and select next.
  
 Select define simple records
 
