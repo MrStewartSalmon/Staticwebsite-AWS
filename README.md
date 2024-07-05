@@ -1,6 +1,6 @@
 Launching a static website on Amazon S3
 
-I have hosted a static website using Amazon S3 and Amazon route 53.
+I've hosted a static website using Amazon S3 and Amazon Route 53.
 
 The information about how to build this project was found from 
 Lucy Wang her YouTube channel is, @TechwithLucy.  
