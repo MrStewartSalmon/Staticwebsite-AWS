@@ -48,9 +48,8 @@ Deselect “Evaluate target health” and select simple records.
  
 Confirm by selecting create records.
  
-You can now view your static website.
+You can now view the static website:
 
-Here is my example:
 http://cloudcomputingdemo.com/
 
 
