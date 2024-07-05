@@ -4,7 +4,7 @@ I've hosted a static website using Amazon S3 and Amazon Route 53.
 
 The information about how to build this project was found from 
 Lucy Wang her YouTube channel is, @TechwithLucy.  
-I have chosen to make my documentation of this project appropriately granular to help anybody who may choose to do this project.
+I have chosen to make my documentation of this project appropriately granular to help anybody who may want to do this project.
 
 Step#1
 
@@ -48,6 +48,10 @@ Deselect “Evaluate target health” and select simple records.
  
 Confirm by selecting create records.
  
-You can now review my static website at:
-http://cloudcomputingdemo.com
+You can now view your static website.
+
+Here is my example:
+http://cloudcomputingdemo.com/
+
+
 
