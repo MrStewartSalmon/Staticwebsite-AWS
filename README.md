@@ -42,7 +42,7 @@ Go back to route 53 select hosted zones and select domain. And create a record t
  
 Select define simple records
 
-In the values sections select alias two S3 website end point.
+In the values sections select alias to S3 website end point.
 Select the region where you hosted your bucket and select the S3 and point.
 Deselect “Evaluate target health” and select simple records.
  
